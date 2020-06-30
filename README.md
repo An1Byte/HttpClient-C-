@@ -20,7 +20,7 @@ int main(){<br>
 }</pre>
 <br>
 <p><ul><li>The performance of sending and receiving data was verified both using the local server and using VPS.</li><li>The program for sending requests using the Http.h file was built using Microsoft Visual Studio Community 2019 Version 16.4.2.</li></ul></p>
-<br><hl><br>
+<br><hr><br>
 <pre><b>УСТАНОВКА (RU):</b>
 <i>-- Скачать Http.h файл и поместить его в каталог с проектом, в котором предполагается работа с http запросами.</i>
 <i>-- В проекте, в котором предполагается работа с http запросами, необходимо будет просто заинклюдить данный файл.</i></pre>
