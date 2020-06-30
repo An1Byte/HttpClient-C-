@@ -1,5 +1,5 @@
 # HttpClient-C-
-
+<hr><p><center><b>In English</b></center></p><hr>
 <pre><b>INSTALLATION (EN):</b>
 <i>-- Download the Http.h file and place it in the directory with the project, which is supposed to work with http requests.</i>
 <i>-- In the project, which is supposed to work with http requests, you just need to exclude this file.</i></pre>
@@ -20,7 +20,7 @@ int main(){<br>
 }</pre>
 <br>
 <p><ul><li>The performance of sending and receiving data was verified both using the local server and using VPS.</li><li>The program for sending requests using the Http.h file was built using Microsoft Visual Studio Community 2019 Version 16.4.2.</li></ul></p>
-<br><hr><br>
+<br><hr><p><center><b>In Russian</b></center></p><hr>
 <pre><b>УСТАНОВКА (RU):</b>
 <i>-- Скачать Http.h файл и поместить его в каталог с проектом, в котором предполагается работа с http запросами.</i>
 <i>-- В проекте, в котором предполагается работа с http запросами, необходимо будет просто заинклюдить данный файл.</i></pre>
